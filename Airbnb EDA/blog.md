@@ -1,3 +1,4 @@
+# Tips of Choosing an Airbnb in Seattle
 ![picture 12](../images/756089864d356688211eff6258996a3f937564120b6e95de2b26a9ce64d770b5.png)  
 
 As someone who works remotely, I've always wanted to work from Seattle for an extended period of time. But deciding where and when to go is always a tricky question for me. 
