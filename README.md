@@ -1,2 +1,1 @@
-# datascience
-DS courses and practices
+This is a repo for Udacity Data Scientist Nano degree projects. 
