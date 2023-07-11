@@ -3,7 +3,7 @@
 
     This project used:
     * `pandas`, `matplotlib` for data prepration and visualization
-    * `nltk`, `TfidfVectorizer` from scikit-learn, `wordcloud` for analyzing and visualization texts
+    * `nltk`, `TfidfVectorizer` from scikit-learn, `wordcloud` for analyzing and visualizing texts
     * `scikit-learn` for modeling
 # Motivation for the project
 
