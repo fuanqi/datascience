@@ -7,7 +7,7 @@ categories: analysis
 
 # Tips of Choosing an Airbnb in Seattle
 
-![picture 12](/datascience/assets/images/756089864d356688211eff6258996a3f937564120b6e95de2b26a9ce64d770b5.png)  
+![picture 12](https://fuanqi.github.io/datascience/assets/images/756089864d356688211eff6258996a3f937564120b6e95de2b26a9ce64d770b5.png)  
 
 
 As someone who works remotely, I've always wanted to work from Seattle for an extended period of time. But deciding where and when to go is always a tricky question for me. 
@@ -20,40 +20,40 @@ Here we are taking the public data for Seattle Airbnb in 2016 to get an idea.
 
 # Airbnb Supply 
 
-![picture 1](/datascience/assets/images/f979a101d1b976d941fc4d9f3a82a18536f5f78ae7bb463b677468f86905cfb2.png)  
+![picture 1](https://fuanqi.github.io/datascience/assets/images/f979a101d1b976d941fc4d9f3a82a18536f5f78ae7bb463b677468f86905cfb2.png)  
 
 When it comes to Airbnb homes, Broadway has the most options. There are ~400 listings available at the market in 2016. Roxhill, on the other hand, has the least options. 
 
-![picture 3](/datascience/assets/images/f8b9d4489cf9559c3ff0e3ccb9fb9440c04a10cccb1557039db9d36f884e6919.png)  
+![picture 3](https://fuanqi.github.io/datascience/assets/images/f8b9d4489cf9559c3ff0e3ccb9fb9440c04a10cccb1557039db9d36f884e6919.png)  
 If considering South Lake Union neighbourhood or Dunlap, you need to book fast, as most of the Airbnbs are booked out early. 
 
 # Vibes of different neighbourhood
 
-![picture 8](/datascience/assets/images/6c89ff010f82424035051af0cfca10081ac3dd59e115df7f082922a7e6fc9123.png)  
+![picture 8](https://fuanqi.github.io/datascience/assets/images/6c89ff010f82424035051af0cfca10081ac3dd59e115df7f082922a7e6fc9123.png)  
 Each neighbourhood has its own vibes. This is a word cloud plotted based on neighbourhood descriptions on Airbnb. 
 For example, visit Ballard for farmers market. Go to Capitol Hill, University District, Central Area for restaurants and coffee shops. 
 
 # Prices
 
-![picture 5](/datascience/assets/images/7330be4001b23127e9f841f503e60a4b0b619f1b48b3ce6e91070eb540b88e79.png)  
+![picture 5](https://fuanqi.github.io/datascience/assets/images/7330be4001b23127e9f841f503e60a4b0b619f1b48b3ce6e91070eb540b88e79.png)  
 
 Price diffs quite a lot in different neighbourhoods. The most expensive neighbourhood is Southeast Magnolia, with average price of $231, almost 4 times the price of the cheapest neighbourhood.
 
-![picture 4](/datascience/assets/images/b844d33450062e1998d507d1a17d08c4b46ae75992e4892d9e3949317acf79f1.png)  
+![picture 4](https://fuanqi.github.io/datascience/assets/images/b844d33450062e1998d507d1a17d08c4b46ae75992e4892d9e3949317acf79f1.png)  
 
 There's definitely seasonality in prices. July is the most expensive time to visit the city. In fact, prices in the second half of year is in general higher than the first half. 
 
-![picture 6](/datascience/assets/images/f6d31cf60f37d2697b4a35d42fed433e8ecdf394bbc8e1f2e45560f10e1258e3.png)  
+![picture 6](https://fuanqi.github.io/datascience/assets/images/f6d31cf60f37d2697b4a35d42fed433e8ecdf394bbc8e1f2e45560f10e1258e3.png)  
 The seasonality in prices is observed in all neighbourhoods, and some neighbourhoods are more sensitive than others, such as Downtown. In summer times, downtown prices are almost 50% more expensive than its low seasons. 
 
-![picture 7](/datascience/assets/images/7023a5f28bde795a00514ad0624ed3b20896be5728408f33001fcacb497190a9.png)  
+![picture 7](https://fuanqi.github.io/datascience/assets/images/7023a5f28bde795a00514ad0624ed3b20896be5728408f33001fcacb497190a9.png)  
 Weekends are usually more expensive than weekdays. No surprise!
 
 # Price Model
 
 In order to better understand the factors impacting prices, I built a simple linear model. 
 
-![picture 11](/datascience/assets/images/263eb21d654968e8b4335b6009ba9c0bd682e9b64653805a6681ff8eb6ac2f0c.png)  
+![picture 11](https://fuanqi.github.io/datascience/assets/images/263eb21d654968e8b4335b6009ba9c0bd682e9b64653805a6681ff8eb6ac2f0c.png)  
 These are the top features impacting Airbnb price. 
 * Property type: Being an Airbnb on boat has great positive impact to the price. On the other hand, if Airbnb is a Dorm, the prices are lower.
 * Neighbourhood: Plays a big role in prices. Neighbourhoods like Pioneer Square, Industrial District has a positive impact on the prices. There are also neighbourhoods like South Park, that impacts the prices in the negative way.
