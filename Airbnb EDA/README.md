@@ -21,4 +21,4 @@ This project used:
     * Avoid summer season and weekends.
     * Stay at shared or private rooms
     * Boats are expensive
-* A more detailed blog post: [link](https://fuanqi.github.io/datascience/)
+* A more detailed blog post: [link](https://fuanqi.github.io/datascience/analysis/2023/07/11/airbnb-seattle-price.html)
