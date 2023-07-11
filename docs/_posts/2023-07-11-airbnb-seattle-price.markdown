@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Tips of Choosing an Airbnb in Seattle!"
 date:   2023-07-11 11:53:27 +0800
-categories: jekyll update
+categories: analysis
 ---
 
 # Tips of Choosing an Airbnb in Seattle
