@@ -14,7 +14,7 @@ This project used:
 * [blog.md](blog.md): Blog post written based on the findings
 # Results
 
-* We used Seattle 2016 Airbnb data for analysis. These are some quick findings:
+* I used Seattle 2016 Airbnb data for analysis. These are some quick findings:
   * Summer season is the busiest time of the city, Airbnb prices peaks.
   * Each neighbourhood has its own vibes.
   * Some tips on saving money on Airbnb:
